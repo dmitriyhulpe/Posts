@@ -1,0 +1,26 @@
+.Modal {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    display: none;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.ModalContent {
+    padding: 15px;
+    background: #fff;
+    border-radius: 5px;
+
+    max-width: 400px;
+
+    box-shadow: rgba(100, 100, 110, 0.25) 0px 5px 30px 0px;
+}
+
+.Modal.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
