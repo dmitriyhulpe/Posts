@@ -1,7 +1,6 @@
 # Fullstack React Application (Completed)
 
-This repository implies my react course where i developed posts application.
-it used the vast majority of react concepts.
+This repository implies my react course where i developed SPA application and it used the vast majority of react concepts.
 
 * Basic concepts were used
 * State managment
@@ -10,7 +9,7 @@ it used the vast majority of react concepts.
 * Modal windows
 * Custom hooks
 * Reused functionality
+* Other custom components
 
 ###### Links:
-
 https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=WL&index=7
