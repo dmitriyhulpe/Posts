@@ -8,6 +8,7 @@ This repository implies my react course where i developed SPA application and it
 * Component life cycle
 * Sorted elements and search
 * Modal windows
+* Loader
 * Custom hooks
 * Reused functionality
 * Other custom components
