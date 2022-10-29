@@ -1,4 +1,4 @@
-# Fullstack React Application
+# React Application
 
 This repository implies my react course where i developed SPA application and it used the vast majority of react concepts.
 
